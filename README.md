@@ -1,0 +1,2 @@
+# wp
+place under htdocs
